@@ -46,10 +46,12 @@ cd ColorMemory
 
 Then install the generated APK on an Android device or emulator.
 
+Or else I have provided an apk file which can be downloaded and installed on an Android device or emulator
+
 ## Contributing
 
 Pull requests are welcome. Feel free to open issues for bugs or feature requests.
 
 ## License
 
-MIT
+Critical_Bug
